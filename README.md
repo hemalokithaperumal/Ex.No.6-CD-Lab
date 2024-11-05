@@ -49,7 +49,8 @@ return 0;
 ```
 # OUTPUT
 
-K.txt
+# K.txt
+
 ![image](https://github.com/user-attachments/assets/e9b4ba9c-6f3c-4ec1-af8b-333dc0f9ee1f)
 
 
